@@ -1,3 +1,3 @@
 # github-upload
 
-https://raw.githack.com/ohlsenjero/ohlsenjero/github-upload/index.html
+https://raw.githack.com/ohlsenjero/github-upload/master/index.html
